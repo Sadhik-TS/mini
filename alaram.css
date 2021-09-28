@@ -1,0 +1,25 @@
+body{
+background-color: coral;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    display: flex;
+ height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#ctime{
+    display: flex;
+    
+}
